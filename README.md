@@ -28,7 +28,7 @@
 
 
 <li>
-<b>Hobbys:</b> sleep,code,image
+<b>Hobbys:</b> sleep,code,illusion
 </li>
 
 <br><br><br>
