@@ -21,17 +21,16 @@
  <b>Name:</b> 梁雄卫</li>
 <li>
 <b>Loves:</b> anime,  games
+  
 </li>
 <li>
 <b>Gender:</b> he/human 🏳️‍⚧️
 </li>
-
-
 <li>
-<b>Hobbys:</b> ]code,illusion
+<b>Hobbys:</b> code,illusion
 </li>
 
-<br><br><br>
+<br><br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
